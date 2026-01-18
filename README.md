@@ -1,2 +1,2 @@
-# Core-java
-Core Java Practice
+PLSQL 
+PLSQL Practice
